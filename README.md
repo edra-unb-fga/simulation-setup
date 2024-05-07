@@ -11,6 +11,7 @@ chmod +x scripts/ros2-humble.sh
 chmod +x scripts/uXRCE-DDS-Agent.sh
 chmod +x scripts/px4-environment.sh
 chmod +x scripts/build-workspace.sh
+chmod +x scripts/build-offboard-example.sh
 ```
 ## Executar Todos os Scripts
 Para executar todos os scripts de configuração de uma só vez, execute o script setup_all.sh localizado na raiz do projeto:
